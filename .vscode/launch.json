@@ -1,0 +1,1120 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bellman_Ford<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Bellman_Ford",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bfs<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Bfs",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bitmask<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Bitmask",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dfs<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Dfs",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dijkstra<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Dijkstra",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP_수업<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.KMP_수업",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kruskal<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Kruskal",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prim<java_algorithm>",
+            "request": "launch",
+            "mainClass": "algorithm_skill.Prim",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1008_a나누기b<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1000._1008_a나누기b",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10171_고양이<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10100._10171_고양이",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10172_개<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10100._10172_개",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10250_ACM호텔<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10200._10250_ACM호텔",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10711_모래성<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10700._10711_모래성",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10775_공항<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10700._10775_공항",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10814_나이순정렬<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10800._10814_나이순정렬",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10816_숫자카드2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10800._10816_숫자카드2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10818_최소최대<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10800._10818_최소최대",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10951_a더하기b<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10900._10951_a더하기b",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_10998_axb<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._10900._10998_axb",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1110_더하기사이클<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1100._1110_더하기사이클",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1152_단어의개수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1100._1152_단어의개수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1157_단어공부<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1100._1157_단어공부",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1197_최소스패닝트리<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1100._1197_최소스패닝트리",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1197_최소스패닝트리_프림<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1100._1197_최소스패닝트리_프림",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11404_플로이드<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11400._11404_플로이드",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11559_puyopuyo<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11500._11559_puyopuyo",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11651_좌표정렬2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11600._11651_좌표정렬2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11657_타임머신<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11600._11657_타임머신",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11726_타일링<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11700._11726_타일링",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11727_타일링2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11700._11727_타일링2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_11866_요세푸스0<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._11800._11866_요세푸스0",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1330_두수비교<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1300._1330_두수비교",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_14852_타일링3<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._14800._14852_타일링3",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_14888_연산자_끼워넣기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._14800._14888_연산자_끼워넣기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_15663_NM9<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._15600._15663_NM9",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16137_견우와직녀<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16100._16137_견우와직녀",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16234_인구이동<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16200._16234_인구이동",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16235_나무재테크<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16200._16235_나무재테크",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16916_부분문자열<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16900._16916_부분문자열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16973_직사각형_탈출<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16900._16973_직사각형_탈출",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_16985_maaaaze<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._16900._16985_maaaaze",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1753_최단경로<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1700._1753_최단경로",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1786_찾기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1700._1786_찾기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1857_발레리노<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1800._1857_발레리노",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_18111_마인크래프트<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._18100._18111_마인크래프트",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_1931_회의실배정<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._1900._1931_회의실배정",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2231_분해합<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2200._2231_분해합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2252_줄세우기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2200._2252_줄세우기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2475_검증수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2400._2475_검증수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2477_참외밭<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2400._2477_참외밭",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2562_최댓값<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2500._2562_최댓값",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2577_숫자의개수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2500._2577_숫자의개수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2579_계단오르기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2500._2579_계단오르기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2623_음악프로그램<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2600._2623_음악프로그램",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2708_블랙잭<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2700._2708_블랙잭",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2741_N찍기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2700._2741_N찍기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2742_기찍N<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2700._2742_기찍N",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2753_윤년<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2700._2753_윤년",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2775_부녀회장<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2700._2775_부녀회장",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2804_크로스워드_만들기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2804_크로스워드_만들기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2810_컵홀더<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2810_컵홀더",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2869_달팽이는_올라가고싶다<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2869_달팽이는_올라가고싶다",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2884_알람시계<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2884_알람시계",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2887_행성터널<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2887_행성터널",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2887_행성터널_프림<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2800._2887_행성터널_프림",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2908_상수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2900._2908_상수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_2920_음계<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._2900._2920_음계",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_3052_나머지<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._3000._3052_나머지",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_3109_빵집<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._3100._3109_빵집",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_4153_직각삼각형<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._4100._4153_직각삼각형",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_4963_섬의개수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._4900._4963_섬의개수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_5463_건포도<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._5400._5463_건포도",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_7568_덩치<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._7500._7568_덩치",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_7573_고기잡이<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._7500._7573_고기잡이",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_7576_토마토<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._7500._7576_토마토",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_8958_ox퀴즈<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._8900._8958_ox퀴즈",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_8979_sol_올림픽<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._8900._8979_sol_올림픽",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_8979_올림픽<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._8900._8979_올림픽",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_9663_Nqueen<java_algorithm>",
+            "request": "launch",
+            "mainClass": "boj_algorithm._9600._9663_Nqueen",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_1438<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_1438",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_1523<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_1523",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_1719<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_1719",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_1809<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_1809",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_hw1<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_hw1",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_hw2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_hw2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_hw3<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_hw3",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_hw4<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_hw4",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-jungol_hw5<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.jungol_hw5",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-냉장고<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.냉장고",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-종교<java_algorithm>",
+            "request": "launch",
+            "mainClass": "jungol.종교",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_0416_dp_practice1<java_algorithm>",
+            "request": "launch",
+            "mainClass": "lecture._0416_dp_practice1",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-_0416_dp_practice2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "lecture._0416_dp_practice2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-대전_4반_3기_이태경_self_Sw<java_algorithm>",
+            "request": "launch",
+            "mainClass": "lecture.대전_4반_3기_이태경_self_Sw",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Contact<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.Contact",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Flatten<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.Flatten",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ladder1<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.Ladder1",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Magnetic<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.Magnetic",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sum<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.Sum",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-workshop_dp<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.workshop_dp",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-거듭제곱<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.거듭제곱",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-건초더미<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.건초더미",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-구간합<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.구간합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-내전경기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.내전경기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-다항식_계산<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.다항식_계산",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-단순이진암호<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.단순이진암호",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-달팽이숫자<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.달팽이숫자",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-대각선<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.대각선",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-등산로<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.등산로",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-디저트_카페<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.디저트_카페",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-모래성_쌓기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.모래성_쌓기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-방향전환<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.방향전환",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-방향전환_sol<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.방향전환_sol",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-벌꿀채취<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.벌꿀채취",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-벽돌깨기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.벽돌깨기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-보호필름<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.보호필름",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-보호필름_new<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.보호필름_new",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-불면증<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.불면증",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-비밀번호<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.비밀번호",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-사랑의_카운슬러<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.사랑의_카운슬러",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-사칙연산_유효성_검사<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.사칙연산_유효성_검사",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-상원이의_연속합<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.상원이의_연속합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-상호의_배틀필드<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.상호의_배틀필드",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-서로소_집합<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.서로소_집합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-세로로_말해요<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.세로로_말해요",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-수도요금<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.수도요금",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-수영장<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.수영장",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-수지의_수지맞는_여행<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.수지의_수지맞는_여행",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-숫자_배열_회전<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.숫자_배열_회전",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-스도쿠_검증<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.스도쿠_검증",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-승현이의_수학공부<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.승현이의_수학공부",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-알파벳_to_숫자<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.알파벳_to_숫자",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-오나의여신님<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.오나의여신님",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-요리사<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.요리사",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-의석이의_우뚝솟은_산<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.의석이의_우뚝솟은_산",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-자기_방으로_돌아가기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.자기_방으로_돌아가기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-재관이의대량할인<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.재관이의대량할인",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-정사각형_방<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.정사각형_방",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-정사각형_방_dfs<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.정사각형_방_dfs",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-조합<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.조합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-종구의_딸이름_짓기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.종구의_딸이름_짓기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-지희의_고장난_계산기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.지희의_고장난_계산기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-초콜릿과건포도<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.초콜릿과건포도",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-최대상금<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.최대상금",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-최장경로<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.최장경로",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-최장경로_sol<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.최장경로_sol",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-최적_경로<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.최적_경로",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-퀴즈<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.퀴즈",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-테네스의_특별한_소수<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.테네스의_특별한_소수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-파리퇴치<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.파리퇴치",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-파스칼_삼각형<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.파스칼_삼각형",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-패턴_마디의_길이<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.패턴_마디의_길이",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-하나로<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.하나로",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-햄스터<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.햄스터",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-행렬찾기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.행렬찾기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-홀수만더하기<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.홀수만더하기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-회문1<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.회문1",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-회문2<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.회문2",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-흑백트리<java_algorithm>",
+            "request": "launch",
+            "mainClass": "sw_expert_academy.흑백트리",
+            "projectName": "java_algorithm"
+        }
+    ]
+}

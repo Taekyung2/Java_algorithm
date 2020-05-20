@@ -17,5 +17,6 @@ public class _0416_dp_practice1 {
 			memo[i] = memo[i - 1] + memo[i - 2] + memo[i - 3];
 		}
 		System.out.println(memo[N]);
+		sc.close();
 	}
 }
