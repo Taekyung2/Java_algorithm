@@ -17,14 +17,11 @@ public class 보호필름_new {
 			min 	= K;
 			film 	= new int[D][W];
 			tmp 	= new int[D][W];
-
-			
 			for(int i = 0; i < D; i++) 
 				for(int j = 0; j < W; j++)
 					film[i][j] = sc.nextInt();
-			
 			dfs(0, 0);
-			System.out.println("#" + t + ""+ min);
+			System.out.println("#" + t + " "+ min);
 		}
 		sc.close();
 	}
@@ -35,11 +32,7 @@ public class 보호필름_new {
 			if(check()) min = Math.min(cnt, min);
 			return;
 		}
-		
-		//안 뿌릴 경우
 		dfs(d + 1, cnt);
-		
-		//뿌릴 경우
 		for(int ab = 0; ab < 2; ab++) {
 			tmp[d] = film[d].clone();
 			Arrays.fill(film[d], ab);
