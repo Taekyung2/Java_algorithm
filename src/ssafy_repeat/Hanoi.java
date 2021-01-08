@@ -1,4 +1,4 @@
-package algorithm_skill;
+package ssafy_repeat;
 
 import java.util.Scanner;
 
