@@ -1,4 +1,4 @@
-package boj_algorithm._2309;
+package boj_algorithm._2300;
 
 import java.util.Arrays;
 import java.util.Scanner;
